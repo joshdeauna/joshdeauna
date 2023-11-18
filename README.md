@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi! I'm Joshua, and this is my personal website
 
-<!--
-**joshdeauna/joshdeauna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+I am a college student learning Computer Science.
+In my free time I love to draw, design graphics on Canva, and watch Marvel films.
 
-Here are some ideas to get you started:
+### Experience
+IT Intern
+Colonial Surety Company
+- Played a key role in a specialized project focused on the development of data cleaning scripts of bond forms.
+- Successfully created and edited over 1,000 bond forms for the company's website.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+IBM Z Mainframe Certificate
+- Operated within IBM's Z mainframe.
+- Managed tasks using JCL, Python, and USS languages.
+
+### Portfolio
+There will be more to see here in the upcoming future!
